@@ -58,6 +58,7 @@ body {
     padding: 15px 20px 13px;
     border: none;
     color: white;
+    border-radius: 5px;
 }
 
 /*-----------------------------------------------------------------------------------------------------------*/
@@ -101,6 +102,8 @@ h1,p {
     color: white;
     margin-top: 8%;
     margin-left: 60%;
+    font-size: normal;
+    opacity: 0.9;
 }
 
 /*-----------------------------------------------------------------------------------------------------------*/
@@ -140,7 +143,10 @@ img {
     width: 16%;
 }
 
+h5 {
+    margin-bottom: 2.5%;
+}
 .descFilm {
     opacity: 0.5;
-    
+    font-size: smaller;
 }
