@@ -4,7 +4,7 @@ body {
     font-family:Arial, Helvetica, sans-serif
 }
 .bgImg {
-    background-image: url(../img/mikhail.jpg);
+    background-image:linear-gradient(to right, rgba(89,0,46,255), rgba(64, 71, 112, 0.226)), url("../img/mikhail.jpg");
     background-position: center;
     background-size: cover;
     object-fit: cover;
@@ -112,11 +112,13 @@ h1,p {
 
 .hrSec2 {
     width: 180px;
+    margin-bottom: 2%;
 }
 
 .containerSec2 {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
+    gap: 2%;
 }
 
 img {
@@ -125,6 +127,20 @@ img {
     height: 100%;
 }
 
-.imgSec2 {
+.img1 {
     width: 40%;
+}
+
+.imgSec2 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.sec2Case {
+    width: 16%;
+}
+
+.descFilm {
+    opacity: 0.5;
+    
 }
