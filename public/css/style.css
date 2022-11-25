@@ -219,6 +219,8 @@ h5 {
     padding-top: 5%;
     display: flex;
     justify-content: space-around;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
 }
 .titleFooter {
     font-weight: bold;
@@ -236,11 +238,11 @@ h5 {
 }
 
 ul > li {
+    color: gray;
     text-decoration: none;
     list-style: none;
     line-height: 2em;
     border-bottom: 1px solid rgba(0, 0, 0, 0.1);
-
 }
 
 ul {
@@ -257,16 +259,4 @@ ul {
 
 .columnF1 {
     width: 35%;
-}
-
-.columnF2 {
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-}
-
-.columnF3 {
-    display: flex;
-    align-items: center;
-    flex-direction: column;
 }
