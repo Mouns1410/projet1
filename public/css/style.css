@@ -150,3 +150,59 @@ h5 {
     opacity: 0.5;
     font-size: smaller;
 }
+
+/*-----------------------------------------------------------------------------------------------------------*/
+.sec3 {
+    margin-top: 10%;
+}
+
+.row {
+    display: flex;
+}
+
+/* Create two equal columns that sits next to each other */
+.column1 {
+    flex: 25%;
+    padding: 10px;
+    height: 90vh;
+    margin: 0;
+    padding: 0;
+}
+.column2 {
+    flex: 15%;
+    padding: 10px;
+    height: 90vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column-reverse;
+    writing-mode: vertical-rl; 
+    background-color: #f2dddc;
+}
+.txtReverse {
+    font-size: 38px;
+    font-weight: bold;
+}
+.column3 {
+    flex: 50%;
+    padding: 10px;
+    height: 90vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.txtSec3 {
+    font-weight: bold;
+    line-height: 1.5em;
+}
+.authorSec3 {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 3%;
+    margin-bottom: 10%;
+}
