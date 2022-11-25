@@ -288,3 +288,124 @@ ul {
     border-radius: 20px;
     padding: 5px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .section{
+    height: 550px;
+  }
+  .rows {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    padding: 80px;
+    height: 830px;
+  }
+  .column1s {
+    background-color: #f8f8f8;
+    align-items: center;
+    display: flex;
+    justify-content: left;
+    height: 100%;
+    width: 400px;
+    flex-direction: column;
+  }
+  .Chiffre {
+    font-size: 400%;
+    color: #cecece;
+    margin: 0;
+    height: 1000px;
+  }
+  .Gauche{
+    padding: 13px;
+    padding-left: 45px;
+    width: 100%;
+  }
+  h3 {
+    font-size: small;
+    display: flex;
+    align-items: baseline;
+  }
+  .column2s {
+    flex: 50%;
+    padding: 0px 75px 0px 75px;
+    margin-top: 0;
+    padding-top: 0;
+    background-color: #f8f8f8;
+    display: flex;
+    justify-content: center;
+    padding-left: 0;
+    padding-right: -40px;
+  }
+  .titre1 {
+    font-size: 40px;
+  }
+  .sign {
+    object-fit: cover;
+  }
+  .hr1 {
+    width: 50px;
+    align-items: flex-start;
+    float: left;
+  }
+  .p1 {
+    font-size: larger;
+    padding: 7px;
+  }
+  
+  .column3s {
+    flex: 25%;
+    padding: 0px 100px 0px 100px;
+    height: 730px;
+    background-color: #f8f8f8;
+    padding-top: 0px;
+    object-fit: cover;
+  }
+  
+  .imageTop {
+    margin-bottom: 15px;
+  
+    padding-bottom: 23%;
+    height: 20%;
+    width: 30%;
+  }
+  
+  .imageBottom {
+    height: 190px;
+    padding-top: 20px;
+    
+    
+  }
+  img {
+    object-fit: cover;
+    height: 400px;
+    width: 350px;
+  
+  }
+  .BGI{
+    margin-top: -450px;
+    float: right;
+  } */
