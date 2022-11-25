@@ -230,9 +230,37 @@ h5 {
     margin-top: 5%;
     line-height: 2em;
 }
+.hrFooter {
+    opacity: 0.5;
+    margin-top: 15px;
+}
 
 ul > li {
     text-decoration: none;
     list-style: none;
-    padding: 0 !important;
+    line-height: 2em;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+
+}
+
+ul {
+    padding-inline-start: 0px;
+}
+
+.rondFooter {
+    color: white;
+    border: none;
+    background-color: #b6005f;
+    border-radius: 100px;
+    font-size: 15px;
+}
+
+.columnF1 {
+    width: 40%;
+}
+
+.columnF2 {
+    display: flex;
+    align-items: center;
+    width: 100%;
 }
